@@ -16,10 +16,3 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 - MySQL
 - Express Session
 
-## Link To Application:
-
-https://infinite-chamber-17552.herokuapp.com/
-
-## Written By:
-
-Vlad T
