@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/treguv/tech-blog.git"
+    "url": "https://github.com/Istephensondev/MVC-TechBlog"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/treguv/tech-blog/issues"
   },
-  "homepage": "https://github.com/treguv/tech-blog#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
